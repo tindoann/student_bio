@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+}
+
+header {
+  margin: 0;
+  color: grey;
+  text-align: center; 
+  background-color: black; 
+  
+}
+
+aside {
+  border: solid gray 5px; 
+  float: left;
+  margin: 0px;
+}
+
+content {
+  background: grey;
+}
+.contact {
+  border: solid green 5px; 
+  font-style: italic; 
+}
+
+.info {
+  text-align: right;
+}
